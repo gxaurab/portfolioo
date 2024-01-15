@@ -1,0 +1,71 @@
+/************ Navbar Css ************/
+nav.navbar {
+    padding: 8px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+  }
+  a.navbar-brand {
+    font-size: 30px;
+    font-family: cursive;
+  }
+  .linksTo{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+  }
+
+  /* The following styles are for the hamburger menu icon on smaller screens */
+  nav.navbar .navbar-toggler:active,
+  nav.navbar .navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  nav.navbar .navbar-toggler-icon {
+    width: 28px;
+    height: 15px;
+    background-image: none;
+    position: relative;
+    border-bottom: 2px solid #fff;
+    transition: all 300ms linear;
+  }
+  
+  nav.navbar .navbar-toggler-icon:after,
+  nav.navbar .navbar-toggler-icon:before {
+    width: 24px;
+    position: absolute;
+    height: 4px;
+    background-color: blue;
+    top: 0;
+    left: 0;
+    content: '';
+    z-index: 0;
+    transition: all 300ms linear;
+  }
+  
+  nav.navbar .navbar-toggler-icon:after {
+    top: 8px;
+  }
+  
+  nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:after,
+  nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
+    background-color: #fff;
+  }
+  
+  nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:after {
+    transform: rotate(45deg);
+    height: 2px;
+  }
+  
+  nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
+    transform: translateY(8px) rotate(-45deg);
+    height: 2px;
+  }
+  
+  nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+    border-color: transparent;
+  }
+  
+

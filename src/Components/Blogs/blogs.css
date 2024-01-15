@@ -1,0 +1,38 @@
+.blogs {
+  padding: 0;
+  position: relative;
+}
+
+.displayStuffs {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  padding: 60px 50px;
+}
+
+.displayStuffs h2 {
+  font-size: 50px;
+}
+
+.displayStuffs p {
+  font-size: 20px;
+}
+
+.blog-carousel .blog-card {
+  margin: 15px;
+  max-width: 100%;
+}
+
+.blog-carousel .blog-card img {
+  width: 100%; /* Ensure the image is responsive */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .displayStuffs h2 {
+    font-size: 30px; /* Smaller font size for titles on smaller screens */
+  }
+
+  .displayStuffs p {
+    font-size: 16px;
+  }
+}

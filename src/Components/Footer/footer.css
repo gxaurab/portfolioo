@@ -1,0 +1,18 @@
+.footerbody{
+    background-color: rgb(252, 220, 181);
+    height: 150px;
+}
+.footerbody {
+    background-image: url('./images/universe.jpg'); /* Path to your image */
+    background-size: cover; /* Cover the entire area of the footer */
+    background-position: center; /* Center the image in the footer */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    color: white; /* Adjust the text color to ensure readability */
+    padding: 20px 0; /* Add some padding */
+}
+.AdminLoginButton{
+    background-color: rgb(7, 7, 7);
+    border-radius: 50px;
+    font-family: cursive;
+    color: aliceblue;
+}
