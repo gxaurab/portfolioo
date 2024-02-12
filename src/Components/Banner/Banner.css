@@ -66,3 +66,14 @@
       width: 100%;
     }
    }
+   .planeicon {
+    max-width: 100%; /* Ensures image is responsive and doesn't overflow its container */
+    height: auto; /* Keeps the aspect ratio of the image */
+    max-height: 400px; /* Adjust this value to control the size of the image */
+}
+
+@media (min-width: 1000px) { /* Adjustments for medium to large screens */
+    .text-right {
+        text-align: right; /* Ensures the image is aligned to the right on larger screens */
+    }
+}

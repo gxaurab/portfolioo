@@ -22,7 +22,6 @@ const Footer = () => {
                             <a href='https://www.twitter.com'><Avatar alt="Twitter" src={twitter}/></a>
                             <a href='https://www.instagram.com'><Avatar alt="Instagram" src={instagram} /> </a>
                             <a href='https://www.youtube.com'><Avatar alt="Youtube" src={youtube} /></a>
-                            <button className='AdminLoginButton'> For Admin</button>
                         </Stack>
                     </Col>
                     <Col>
