@@ -46,7 +46,7 @@ export const Projects = () => {
               <Card.Body>
                 <Card.Title> #1 </Card.Title>
                 <Card.Text>A simple Javascript game: WORLDE</Card.Text>
-                <a href='www.gaurab.me/WORDLE/'><Button variant="dark" >View the project</Button></a>
+                <a href='https://gaurab.me/WORDLE/' target='_blank'><Button variant="dark" >View the project</Button></a>
               </Card.Body>
             </Card>
             
@@ -55,7 +55,7 @@ export const Projects = () => {
               <Card.Body>
                 <Card.Title> #2 </Card.Title>
                 <Card.Text>A Simple Portfolio clone from HUGO</Card.Text>
-                <a href='www.gaurab.me/site/'><Button variant="dark" >View the project</Button></a>
+                <a href='https://gaurab.me/site/' target='_blank'><Button variant="dark" >View the project</Button></a>
               </Card.Body>
             </Card>
             
@@ -64,7 +64,7 @@ export const Projects = () => {
               <Card.Body>
                 <Card.Title>Project #3 </Card.Title>
                 <Card.Text>A simple Javascript game WORLDE</Card.Text>
-                <a href='www.gaurab.me/TicTacToe/'><Button variant="dark" >View the project</Button></a>
+                <a href='https://gaurab.me/TicTacToe/' target='_blank'><Button variant="dark" >View the project</Button></a>
               </Card.Body>
             </Card>
             
@@ -74,6 +74,7 @@ export const Projects = () => {
                 <Card.Title>Project #4 </Card.Title>
                 <Card.Text>A simple Javascript game WORLDE</Card.Text>
                 <Button variant="dark" >View the project</Button>
+
               </Card.Body>
             </Card>
           </Carousel>

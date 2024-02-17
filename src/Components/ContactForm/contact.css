@@ -38,7 +38,7 @@
     display: flex;
     align-items: center;
     padding: 10px 20px;
-    background: #e3e3e7;
+    background: black;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
   }
@@ -154,16 +154,16 @@
   }
   
   .app-form-button {
-    background: none;
     border: none;
-    color: red;
-    font-size: 14px;
+    color: green;
+    font-size: 22px;
     cursor: pointer;
     outline: none;
   }
   
   .app-form-button:hover {
-    color:yellow;
+    color:blue;
+    
   }
   @media screen and (max-width: 520px) {
     .screen-body {

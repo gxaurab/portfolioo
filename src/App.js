@@ -1,12 +1,12 @@
 import React, { useRef } from 'react';
 import './App.css';
-import NavBar from './Components/NavBar/NavBar';
 import Banner from './Components/Banner/Banner';
 import Projects from './Components/Projects/Projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Blogs from './Components/Blogs/Blogs';
 import Contact from './Components/ContactForm/Contact';
 import Footer from './Components/Footer/footer';
+import NavBar from './Components/NavBar/NavBar';
 
 function App() {
   const bannerRef = useRef(null);
@@ -30,5 +30,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

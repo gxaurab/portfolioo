@@ -1,4 +1,7 @@
 /************ Navbar Css ************/
+.totalBAR{
+  background-color: yellow;
+}
 nav.navbar {
     padding: 8px 0;
     position: fixed;
@@ -9,6 +12,7 @@ nav.navbar {
   a.navbar-brand {
     font-size: 30px;
     font-family: cursive;
+    background-color: yellow;
   }
   .linksTo{
     font-family: cursive;
@@ -37,7 +41,7 @@ nav.navbar {
     width: 24px;
     position: absolute;
     height: 4px;
-    background-color: blue;
+    background-color: rgb(27, 27, 17);
     top: 0;
     left: 0;
     content: '';

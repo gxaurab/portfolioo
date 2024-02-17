@@ -61,7 +61,7 @@ const Blogs = () => {
                 <Card.Text>
                   Description for Blog 1
                 </Card.Text>
-                <Button variant="primary">Read More</Button>
+                <a href='https://hashnode.com/@gxaurab' target='_blank'><Button variant="primary">Read More</Button></a>
               </Card.Body>
             </Card>
             <Card className='blog-card'>
@@ -71,7 +71,7 @@ const Blogs = () => {
                 <Card.Text>
                   Description for Blog 1.
                 </Card.Text>
-                <Button variant="primary">Read More</Button>
+                <a href='https://hashnode.com/@gxaurab' target='_blank'><Button variant="primary">Read More</Button></a>
               </Card.Body>
             </Card>
             <Card className='blog-card'>
@@ -81,7 +81,7 @@ const Blogs = () => {
                 <Card.Text>
                   Description for Blog 1.
                 </Card.Text>
-                <Button variant="primary">Read More</Button>
+                <a href='https://hashnode.com/@gxaurab' target='_blank'><Button variant="primary">Read More</Button></a>
               </Card.Body>
             </Card>
 

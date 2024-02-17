@@ -10,7 +10,7 @@ const Banner = () => {
                     <Col xs={12} md={6} xl={7}>
                         <h1 className="aa"> Hi <br /> I am Gaurab </h1>
                         <h2 className="aa CS"> CS Student </h2>
-                        <h2 className="aa fullsack"> Full Stack In Making </h2>
+                        <h2 className="aa fullsack"> Front-End Developer </h2>
                         <p> " Universe within us mirrors the cosmos outside"</p>
                     </Col>
                     <Col xs={12} md={6} xl={5} className="text-right"> {/* Added className for text alignment */}

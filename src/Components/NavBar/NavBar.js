@@ -13,7 +13,7 @@ const NavBar = ({ homeRef, projectsRef, blogsRef, contactRef }) => {
   };
 
   return (
-    <div>
+    <div className="totalBAR">
       {[false, 'sm', 'md', 'lg', 'xl', 'xxl'].map((expand) => (
         <Navbar key={expand} expand={expand} className="bg-body">
           <Container>
@@ -26,7 +26,7 @@ const NavBar = ({ homeRef, projectsRef, blogsRef, contactRef }) => {
             >
               <Offcanvas.Body>
                 <Nav className="justify-content-end flex-grow-1 linksTo">
-                  <Nav.Link href="#home" onClick={() => scrollToSection(homeRef)}>Mee</Nav.Link>
+                  <Nav.Link href="#home" >Mee</Nav.Link>
                   <Nav.Link href="#projects" onClick={() => scrollToSection(projectsRef)}>Projects</Nav.Link>
                   <Nav.Link href="#blogs" onClick={() => scrollToSection(blogsRef)}>Blogs</Nav.Link>
                   <Nav.Link href="#contact" onClick={() => scrollToSection(contactRef)}>Find Me</Nav.Link>
