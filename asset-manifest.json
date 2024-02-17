@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e66fe8fd.css",
+    "main.js": "/react-gh-pages/static/js/main.50fa916d.js",
+    "static/js/787.0060d57b.chunk.js": "/react-gh-pages/static/js/787.0060d57b.chunk.js",
+    "static/media/instagram.png": "/react-gh-pages/static/media/instagram.3be1103c0e704457953e.png",
+    "static/media/blog1.jpg": "/react-gh-pages/static/media/blog1.1a909ba9c68fcd785c79.jpg",
+    "static/media/universe.jpg": "/react-gh-pages/static/media/universe.3b0e2e1acd550848157f.jpg",
+    "static/media/twitter.png": "/react-gh-pages/static/media/twitter.5234627d6ca58587033e.png",
+    "static/media/HUGOsite.png": "/react-gh-pages/static/media/HUGOsite.34a17721b111fa5ae6e9.png",
+    "static/media/planeicons.webp": "/react-gh-pages/static/media/planeicons.c88c93029a2a296c7399.webp",
+    "static/media/Wordle.png": "/react-gh-pages/static/media/Wordle.2de9d8c45e5a2633c815.png",
+    "static/media/youtube.png": "/react-gh-pages/static/media/youtube.568b314b5aa804d331b9.png",
+    "static/media/loading.png": "/react-gh-pages/static/media/loading.fa7365b000217a9c3e78.png",
+    "static/media/revicons.eot": "/react-gh-pages/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-gh-pages/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react-gh-pages/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e66fe8fd.css.map": "/react-gh-pages/static/css/main.e66fe8fd.css.map",
+    "main.50fa916d.js.map": "/react-gh-pages/static/js/main.50fa916d.js.map",
+    "787.0060d57b.chunk.js.map": "/react-gh-pages/static/js/787.0060d57b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e66fe8fd.css",
+    "static/js/main.50fa916d.js"
+  ]
+}
