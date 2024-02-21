@@ -1,7 +1,5 @@
-
-
 .banner {
-    margin-top: 0;
+    margin-top: -80px;
     padding: 260px 0 100px 0;
     background-position: top center;
     background-size: cover;
@@ -10,7 +8,7 @@
   
   .banner h1 {
     font-size: 70px;
-    padding: 10px;
+    padding: 5px;
     letter-spacing: 0.8px;
     line-height: 1;
     margin-bottom: 2px;

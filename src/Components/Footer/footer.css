@@ -1,6 +1,6 @@
 .footerbody{
     background-color: rgb(252, 220, 181);
-    height: 150px;
+    height: auto;
 }
 .footerbody {
     background-image: url('./images/universe.jpg'); /* Path to your image */

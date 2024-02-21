@@ -1,28 +1,29 @@
 .projects {
-  padding: 0;
+  padding-top: -10px;
   width: 100%;
   position: relative;
-  
+  background-color: black;
 }
 
 .displayStuffs {
+  color: white;
   text-align: center;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  padding: 60px 50px;
+  font-family: cursive;
+  padding: 30px 90px;
 }
 
 .displayStuffs h2 {
   font-size: 50px;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: cursive;
 }
 
 .displayStuffs p {
-  font-size: 20px;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+  font-family: 'Arial', sans-serif;
 }
 
 .project-slider .CarouselStyle {
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Arial', sans-serif;
   margin: 20px; /* Margin between cards */
 }
 

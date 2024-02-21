@@ -34,9 +34,9 @@ const Blogs = () => {
     <section className='blogs'>
       <Container>
         <Row>
-          <Col className='displayStuffs'>
-            <h2>Blogs</h2>
-            <p>These are a few of my favorite blogs.</p>
+          <Col className='displayStuffsBlogs'>
+            <h2 className='blogsH2'>Blogs</h2>
+            <p className='blogsP'> These are a few of my favorite blogs.</p>
           </Col>
         </Row>
         <Row>

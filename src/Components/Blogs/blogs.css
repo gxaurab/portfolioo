@@ -1,20 +1,21 @@
 .blogs {
-  padding: 0;
+  padding-top:-10px;
   position: relative;
+  background-color: rgb(255, 255, 255);
 }
 
-.displayStuffs {
+.displayStuffsBlogs {
   text-align: center;
   font-family: 'Arial', sans-serif;
-  padding: 60px 50px;
+  padding: 30px 30px;
 }
 
-.displayStuffs h2 {
-  font-size: 50px;
+.blogsH2 {
+  font-size: 40px;
 }
 
-.displayStuffs p {
-  font-size: 20px;
+.blogsP {
+  font-size: 25px;
 }
 
 .blog-carousel .blog-card {

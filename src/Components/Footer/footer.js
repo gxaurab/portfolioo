@@ -8,9 +8,6 @@ import instagram from "./images/instagram.png";
 import twitter from "./images/twitter.png";
 import youtube from "./images/youtube.png";
 
-
-
-
 const Footer = () => {
     return (
         <section className="footerbody">
@@ -26,7 +23,7 @@ const Footer = () => {
                     </Col>
                     <Col>
                         <div className='quote'>
-                            <h1>THIS IS A BEAUTIFUL QUOTE FOR BEAUTIFUL PEOPLE</h1> 
+                            <h1>Beautiful Quote For Beautiful People</h1> 
                         </div>
                     </Col>
                 </Row>
