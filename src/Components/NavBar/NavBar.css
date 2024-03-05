@@ -51,6 +51,7 @@ nav.navbar {
   
   nav.navbar .navbar-toggler-icon:after {
     top: 8px;
+    width: 50%;
   }
   
   nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:after,
@@ -71,5 +72,9 @@ nav.navbar {
   nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     border-color: transparent;
   }
-  
-
+  /* NavBar.css */
+@media (max-width: 992px) {
+  .offcanvas-end {
+    width: 50%!important; /* This forces the offcanvas to occupy 50% of the screen width */
+  }
+}

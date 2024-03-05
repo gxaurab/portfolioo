@@ -36,7 +36,7 @@ const Blogs = () => {
         <Row>
           <Col className='displayStuffsBlogs'>
             <h2 className='blogsH2'>Blogs</h2>
-            <p className='blogsP'> These are a few of my favorite blogs.</p>
+            <p className='blogsP'> Soon HashNode will be implemented here</p>
           </Col>
         </Row>
         <Row>
