@@ -36,7 +36,7 @@ const Blogs = () => {
         <Row>
           <Col className='displayStuffsBlogs'>
             <h2 className='blogsH2'>Blogs</h2>
-            <p className='blogsP'> Soon HashNode will be implemented here</p>
+            <p className='blogsP'> Soon HashNode will be implemented here ..not updated</p>
           </Col>
         </Row>
         <Row>
@@ -61,7 +61,7 @@ const Blogs = () => {
                 <Card.Text>
                   Description for Blog 1
                 </Card.Text>
-                <a href='https://hashnode.com/@gxaurab' target='_blank'><Button variant="primary">Read More</Button></a>
+                <a href='https://hash-node-mocha.vercel.app/' target='_blank'><Button variant="primary">Read More</Button></a>
               </Card.Body>
             </Card>
             <Card className='blog-card'>
@@ -71,7 +71,7 @@ const Blogs = () => {
                 <Card.Text>
                   Description for Blog 1.
                 </Card.Text>
-                <a href='https://hashnode.com/@gxaurab' target='_blank'><Button variant="primary">Read More</Button></a>
+                <a href='https://hash-node-mocha.vercel.app/' target='_blank'><Button variant="primary">Read More</Button></a>
               </Card.Body>
             </Card>
             <Card className='blog-card'>
@@ -81,7 +81,7 @@ const Blogs = () => {
                 <Card.Text>
                   Description for Blog 1.
                 </Card.Text>
-                <a href='https://hashnode.com/@gxaurab' target='_blank'><Button variant="primary">Read More</Button></a>
+                <a href='https://hash-node-mocha.vercel.app/' target='_blank'><Button variant="primary">Read More</Button></a>
               </Card.Body>
             </Card>
 
