@@ -75,3 +75,12 @@
         text-align: right; /* Ensures the image is aligned to the right on larger screens */
     }
 }
+
+.banner marquee{
+  font-size: 30px;
+  font-family: cursive;
+  color: rgb(161, 19, 19);
+  width: 100%;
+  height: 60px;
+  margin-top: 20px;
+}
